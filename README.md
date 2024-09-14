@@ -1,6 +1,6 @@
 # Sales Insights Data Analysis Project | Sales Domain -
 
--- Using -> SQL and Power BI
+# Using - SQL and Power BI
 
 - Designed a Power BI dashboard to understand AtliQ hardware goods sales trend.
 - The final dashboard was effective at displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions.
@@ -15,11 +15,17 @@
      This dashboard helps businesses make data-driven decisions, improve product focus, and understand customer behavior better.
 
 
-        ![Key Insights](https://github.com/user-attachments/assets/ad235a57-ff92-4565-bc14-09483a65235f)
+-- Key Insights:
+
+  ![Key Insights](https://github.com/user-attachments/assets/ad235a57-ff92-4565-bc14-09483a65235f)
       
+
+-- Profit Insights:
+
+
+  ![Profit Insights](https://github.com/user-attachments/assets/974530ab-8656-423a-b6ca-9790b1c07431)
       
-        ![Profit Insights](https://github.com/user-attachments/assets/974530ab-8656-423a-b6ca-9790b1c07431)
+
+  -- Performance Insights:
       
-      
-      
-       ![Performance Insights](https://github.com/user-attachments/assets/8b705a46-f440-47ab-b18d-ef5118d91d45)
+   ![Performance Insights](https://github.com/user-attachments/assets/8b705a46-f440-47ab-b18d-ef5118d91d45)
