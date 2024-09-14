@@ -2,17 +2,18 @@
 
 # Using - SQL and Power BI
 
-- Designed a Power BI dashboard to understand AtliQ hardware goods sales trend.
-- The final dashboard was effective at displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions.
-- This dashboard could help to increase the revenue at least by 7% in the next quarter.
+  - Designed a Power BI dashboard to understand AtliQ hardware goods sales trends.
+  - The final dashboard effectively displayed the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions.
+  - This dashboard could help to increase the revenue by at least 7% in the next quarter.
 
-  #  Dashboard: Sales Insights 
-     I’ve built an interactive Sales Insights Dashboard that provides valuable business insights. Here’s what it includes:
-     Top 5 Customers by Revenue – See which customers are driving the most revenue.
-     Top 5 Products by Revenue – Find out which products are the best performers.
-     Filter by Year – Analyze trends year-over-year with ease.
-     Total Revenue and Sales Quantity – A clear summary of the overall performance.
-     This dashboard helps businesses make data-driven decisions, improve product focus, and understand customer behavior better.
+ # Dashboard: Sales Insights 
+   
+   I’ve built an interactive Sales Insights Dashboard that provides valuable business insights. Here’s what it includes:
+  - Top 5 Customers by Revenue – See which customers drive the most revenue.
+  - Top 5 Products by Revenue – Find out which products are the best performers.
+  - Filter by Year – Analyze trends year-over-year with ease.
+  - Total Revenue and Sales Quantity – A clear summary of the overall performance.
+  - This dashboard helps businesses make data-driven decisions, improve product focus, and understand customer behaviour better.
 
 
 -- Key Insights:
