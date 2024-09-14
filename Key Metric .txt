@@ -1,0 +1,9 @@
+KPIs 
+
+1. Revenue = SUM('Sales transactions'[norm_sales_amount])
+2. Sales Qty = SUM('sales transactions'[sales_qty])
+3. Revenue Contribution % = DIVIDE([Revenue],CALCULATE([Revenue],ALL('sales products'),ALL('sales customers'),ALL('sales markets')))
+4. Revenue LY = CALCULATE([Revenue],SAMEPERIODLASTYEAR('sales date'[date]))
+5. Total Profit Margin = SUM('Sales transactions'[Profit_Margin])
+6. Profit Margin % = DIVIDE([Total Profit Margin],[Revenue],0)
+7. Profit Margin Contribution % = DIVIDE([Total Profit Margin],CALCULATE([Total Profit Margin],ALL('sales products'),ALL('sales customers'),ALL('sales markets')))
