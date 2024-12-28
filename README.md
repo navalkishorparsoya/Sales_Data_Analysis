@@ -1,4 +1,4 @@
-# Sales Insights Data Analysis Project | Sales Domain -
+# Sales Data Analysis
 
 # Using - SQL and Power BI
 
@@ -12,7 +12,7 @@
   - Top 5 Customers by Revenue – See which customers drive the most revenue.
   - Top 5 Products by Revenue – Find out which products are the best performers.
   - Filter by Year – Analyze trends year-over-year with ease.
-  - Total Revenue and Sales Quantity – A clear summary of the overall performance.
+  - Total Revenue and Sales Quantity – A clear overall performance summary.
   - This dashboard helps businesses make data-driven decisions, improve product focus, and understand customer behaviour better.
 
 
